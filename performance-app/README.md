@@ -40,7 +40,7 @@ This project is a **Performance Appraisal Management System** built using **Spri
 1. Open a terminal.
 2. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/veervaghasia/performance-app.git
    ```
 3. Navigate to the project directory:
    ```bash
